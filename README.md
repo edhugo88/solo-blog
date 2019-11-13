@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://blog.hugoyisang.top/my-github-repos)
+* [JUC知识点梳理](http://blog.hugoyisang.top/articles/2019/11/12/1573571446386.html)
 * [RocketMq安装及使用](http://blog.hugoyisang.top/articles/2019/11/08/1573186330802.html)
 * [HashMap](http://blog.hugoyisang.top/articles/2019/11/08/1573184701635.html)
 * [ServletContext介绍及用法](http://blog.hugoyisang.top/articles/2019/11/08/1573183839966.html)
