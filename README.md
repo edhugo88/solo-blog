@@ -1,15 +1,17 @@
-<p align="center"><img alt="邃无端 的个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
-邃无端 的个人博客
+<p align="center"><img alt="邃无端 的个人分享" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+邃无端 的个人分享
 </h2>
 
 <h4 align="center">记录精彩的程序人生</h4>
-<p align="center"><a title="邃无端 的个人博客" target="_blank" href="https://github.com/edhugo88/solo-blog"><img src="https://img.shields.io/github/last-commit/edhugo88/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<p align="center"><a title="邃无端 的个人分享" target="_blank" href="https://github.com/edhugo88/solo-blog"><img src="https://img.shields.io/github/last-commit/edhugo88/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/edhugo88/solo-blog"><img src="https://img.shields.io/github/repo-size/edhugo88/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.6-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/edhugo88/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [使用文章汇总](http://blog.hugoyisang.top/articles/2019/11/29/1575016443926.html)
+* [二分法查找](http://blog.hugoyisang.top/articles/2019/11/27/1574838104031.html)
 * [SpringBoot应用中使用AOP记录接口访问日志](http://blog.hugoyisang.top/articles/2019/11/24/1574587924025.html)
 * [Java异常](http://blog.hugoyisang.top/articles/2019/11/24/1574587215679.html)
 * [Java底层之JVM(一)](http://blog.hugoyisang.top/articles/2019/11/22/1574389267073.html)
@@ -28,8 +30,6 @@
 * [设计模式-结构型-7.代理(Proxy)](http://blog.hugoyisang.top/articles/2019/11/17/1573983621503.html)
 * [设计模式-结构型-6.享元(Flyweight)](http://blog.hugoyisang.top/articles/2019/11/17/1573983455183.html)
 * [设计模式-结构型-5.外观(Facade)](http://blog.hugoyisang.top/articles/2019/11/17/1573983343996.html)
-* [设计模式-结构型-4.装饰(Decorator)](http://blog.hugoyisang.top/articles/2019/11/17/1573983258791.html)
-* [设计模式-结构型-3.组合(Composite)](http://blog.hugoyisang.top/articles/2019/11/17/1573983140227.html)
 
 ### 热门
 
@@ -66,6 +66,8 @@
 * [设计模式-行为型-12.空对象(Null)](http://blog.hugoyisang.top/articles/2019/11/17/1573982566030.html)
 * [设计模式-结构型-1.适配器(Adapter)](http://blog.hugoyisang.top/articles/2019/11/17/1573982728810.html)
 * [设计模式-结构型-2.桥接(Bridge)](http://blog.hugoyisang.top/articles/2019/11/17/1573982942155.html)
+* [设计模式-结构型-3.组合(Composite)](http://blog.hugoyisang.top/articles/2019/11/17/1573983140227.html)
+* [设计模式-结构型-4.装饰(Decorator)](http://blog.hugoyisang.top/articles/2019/11/17/1573983258791.html)
 
 ---
 
