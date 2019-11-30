@@ -1,9 +1,9 @@
-<p align="center"><img alt="邃无端 的个人分享" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
-邃无端 的个人分享
+<p align="center"><img alt="邃无端 的编程学习记录" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+邃无端 的编程学习记录
 </h2>
 
 <h4 align="center">记录精彩的程序人生</h4>
-<p align="center"><a title="邃无端 的个人分享" target="_blank" href="https://github.com/edhugo88/solo-blog"><img src="https://img.shields.io/github/last-commit/edhugo88/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<p align="center"><a title="邃无端 的编程学习记录" target="_blank" href="https://github.com/edhugo88/solo-blog"><img src="https://img.shields.io/github/last-commit/edhugo88/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/edhugo88/solo-blog"><img src="https://img.shields.io/github/repo-size/edhugo88/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.6-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/edhugo88/solo-blog.svg"></a></p>
@@ -34,13 +34,13 @@
 ### 热门
 
 * [Java类加载器](http://www.hugoyisang.top/articles/2019/11/08/1573177125535.html)
+* [我的第一篇分享](http://www.hugoyisang.top/articles/2019/11/07/1573129928941.html)
 * [设计模式-行为型-7.观察者(Observer)](http://www.hugoyisang.top/articles/2019/11/15/1573813516479.html)
-* [我的第一篇博客](http://www.hugoyisang.top/articles/2019/11/07/1573129928941.html)
 * [HashMap](http://www.hugoyisang.top/articles/2019/11/08/1573184701635.html)
 * [设计模式-行为型-5.中介者(Mediator)](http://www.hugoyisang.top/articles/2019/11/15/1573807205910.html)
 * [ServletContext介绍及用法](http://www.hugoyisang.top/articles/2019/11/08/1573183839966.html)
-* [RocketMq安装及使用](http://www.hugoyisang.top/articles/2019/11/08/1573186330802.html)
 * [我在 GitHub 上的开源项目](http://www.hugoyisang.top/my-github-repos)
+* [RocketMq安装及使用](http://www.hugoyisang.top/articles/2019/11/08/1573186330802.html)
 * [JUC知识点梳理](http://www.hugoyisang.top/articles/2019/11/12/1573571446386.html)
 * [工厂方法模式与IoC/DI](http://www.hugoyisang.top/articles/2019/11/14/1573721718573.html)
 * [设计模式-创建型-1.单例模式(Singleton)](http://www.hugoyisang.top/articles/2019/11/15/1573800735201.html)
